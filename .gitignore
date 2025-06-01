@@ -1,0 +1,35 @@
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Editor & OS files
+.DS_Store
+*.swp
+*.swo
+*.bak
+
+# Logs
+*.log
+
+# Env files
+.env
+
+# Test output
+htmlcov/
+.tox/
+.coverage
+.cache/
+
+# Distribution/build
+build/
+dist/
+*.egg-info/
